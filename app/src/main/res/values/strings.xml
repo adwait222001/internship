@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">drona-aviation</string>
+    <string name="to_view_the_image">to view the image</string>
+    <string name="button">Button</string>
+    <string name="hello_user_choose_the_photo_which_you_want_to_see_in_this_app">Hello user choose the photo which you want to see in this app</string>
+    <string name="choose_from_gallery">choose from gallery</string>
+    <string name="click_from_camera">click from camera</string>
+</resources>
